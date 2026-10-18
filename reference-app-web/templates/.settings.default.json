@@ -3,6 +3,6 @@
   "mediaUrl": "https://compliance.iabtechnologylab.com/omsdk-demo-files/creative/MANIA.mp4",
   "omsdkUrl": "//localhost:8081/omweb-v1.js",
   "vendorKey": "imasdk.googleapis.com-test",
-  "verificationScriptUrl": "http://localhost:8081/omid-validation-verification-script-v1.js",
+  "verificationScriptUrl": "http://localhost:8081/omid-my-verification-script-v1.js",
   "verificationParameters": "campaignId=1234"
 }
